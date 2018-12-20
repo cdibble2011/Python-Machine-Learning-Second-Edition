@@ -1,4 +1,8 @@
 # Python Machine Learning - Second Edition
+
+This is Github for the publisher, great resource of sample code!
+https://github.com/PacktPublishing
+
 This is the code repository for [Python Machine Learning - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787125933), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 This highly acclaimed book has been extended and modernized to now include the popular TensorFlow deep learning library. The scikit-learn code has also been fully updated to include recent improvements and additions to this versatile machine learning library. The result is a new edition of this classic book at the cutting edge of machine learning.
